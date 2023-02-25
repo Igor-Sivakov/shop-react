@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shop-react/static/css/main.f3fc020f.css",
+    "main.js": "/shop-react/static/js/main.6de7cc28.js",
+    "Cart.css": "/shop-react/static/css/Cart.bd858013.chunk.css",
+    "Cart.js": "/shop-react/static/js/Cart.8b9fb198.chunk.js",
+    "FullItem.css": "/shop-react/static/css/FullItem.e9b3771d.chunk.css",
+    "FullItem.js": "/shop-react/static/js/FullItem.183e6ffe.chunk.js",
+    "static/media/vapeLogo.jpeg": "/shop-react/static/media/vapeLogo.02b83cdca8198f45aa2e.jpeg",
+    "static/media/plugVape.webp": "/shop-react/static/media/plugVape.5c0930e804557d0377c9.webp",
+    "static/media/emptyCart.png": "/shop-react/static/media/emptyCart.000ff2e3917dbf02deff.png",
+    "static/media/Preloader.svg": "/shop-react/static/media/Preloader.6f646183dc260bb337bf8ad39bc821e7.svg",
+    "index.html": "/shop-react/index.html",
+    "main.f3fc020f.css.map": "/shop-react/static/css/main.f3fc020f.css.map",
+    "main.6de7cc28.js.map": "/shop-react/static/js/main.6de7cc28.js.map",
+    "Cart.bd858013.chunk.css.map": "/shop-react/static/css/Cart.bd858013.chunk.css.map",
+    "Cart.8b9fb198.chunk.js.map": "/shop-react/static/js/Cart.8b9fb198.chunk.js.map",
+    "FullItem.e9b3771d.chunk.css.map": "/shop-react/static/css/FullItem.e9b3771d.chunk.css.map",
+    "FullItem.183e6ffe.chunk.js.map": "/shop-react/static/js/FullItem.183e6ffe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3fc020f.css",
+    "static/js/main.6de7cc28.js"
+  ]
+}
